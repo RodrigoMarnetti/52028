@@ -1,0 +1,10 @@
+configuracion Dispositivo123 {
+  seccion Wifi {
+    nombre = "Casa";
+    canal = 11;
+    activo = verdadero;
+  }
+  seccion Bluetooth {
+    habilitado = falso;
+  }
+}

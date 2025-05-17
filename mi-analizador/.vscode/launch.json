@@ -1,0 +1,15 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Debug ANTLR ConfigLang.g4",
+      "type": "antlr-debug",
+      "request": "launch",
+      "input": "input.txt",
+      "grammar": "ConfigLang.g4",
+      "startRule": "configuracion",
+      "printParseTree": true,
+      "visualParseTree": true
+    }
+  ]
+}

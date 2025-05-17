@@ -1,0 +1,7 @@
+configuracion Dispositivo {
+  seccion Wifi {
+    nombre "Casa";
+    canal = 11
+    activo = verdadero;
+  }
+}
